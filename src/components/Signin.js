@@ -36,15 +36,11 @@ const Signup = () => {
               Trzeba powiedzieć, że w dramacie z tego okresy nie było mocno
               zarysowanych prądów, czy szkół, do których odwoływałaby się grupa
               artystów. Trzeba tu raczej mówić o wielkich indywidualnościach,
-              którym bliższe były te, a nie inne nurty w sztuce. Do takich
-              twórców zaliczyć trzeba Stanisława Ignacego Witkiewicza, którego
-              dramat "Szewcy" należy dziś do najważniejszych w dorobku autora.
+              którym bliższe były te, a nie inne nurty w sztuce.
             </p>
             <br />
             <p>
-              <em>
-                //www.bryk.pl/wypracowania/jezyk-polski/xx-lecie/24931-dwudziestolecie-miedzywojenne-tworczosc-prozatorska-i-dramatyczna-tego-okresu.html
-              </em>
+              <em>//www.bryk.pl/wypracowania/jezyk-polski/xx-lecie</em>
             </p>
           </Modal>
         </div>
