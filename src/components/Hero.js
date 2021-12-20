@@ -55,11 +55,6 @@ const Hero = () => {
               Na literaturę znaczący wpływ miały rozwijające się filozofie:
               Behawioryzm, Freudyzm, Egzystencjalizm, Pragmatyzm, Katastrofizm
             </p>
-            <p>
-              Znany historyk literatury Andrzej Zawadzki stwierdził w swej
-              syntezie epoki: "Nigdy przedtem i nigdy potem nie zdarzył się w
-              polskiej kulturze fenomen tak bujnego życia literackiego."
-            </p>
             <br />
             <p>
               <em>//klp.pl/dwudziestolecie-miedzywojenne</em>
