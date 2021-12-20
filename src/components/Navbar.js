@@ -44,10 +44,7 @@ const Navbar = () => {
             Świdy) oraz Władysław Stanisław Reymont, który w 1924 otrzymał
             Literacką Nagrodę Nobla. Pełnię talentu w tym okresie rozwinęli:
             Zofia Nałkowska (m.in. Granica), Juliusz Kaden-Bandrowski (Czarne
-            Skrzydła, Generał Barcz), Maria Dąbrowska (m.in. Noce i dnie),
-            Jarosław Iwaszkiewicz (m.in. Młyn nad Utratą), Maria Kuncewiczowa
-            (Cudzoziemka), Pola Gojawiczyńska (Dziewczęta z Nowolipek), Jan
-            Parandowski (Niebo w płomieniach) i wielu innych.
+            Skrzydła, Generał Barcz), Maria Dąbrowska ... .
           </p>
           <br />
           <p>
