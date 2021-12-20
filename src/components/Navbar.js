@@ -42,9 +42,7 @@ const Navbar = () => {
             epoce Młodej Polski, takimi jak: Stefan Żeromski (Przedwiośnie),
             Wacław Berent, Władysław Orkan, Andrzej Strug (Pokolenie Marka
             Świdy) oraz Władysław Stanisław Reymont, który w 1924 otrzymał
-            Literacką Nagrodę Nobla. Pełnię talentu w tym okresie rozwinęli:
-            Zofia Nałkowska (m.in. Granica), Juliusz Kaden-Bandrowski (Czarne
-            Skrzydła, Generał Barcz), Maria Dąbrowska ... .
+            Literacką Nagrodę Nobla.
           </p>
           <br />
           <p>
