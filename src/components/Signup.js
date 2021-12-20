@@ -53,15 +53,10 @@ const Signup = () => {
               takich jak Czarodziejska góra, Buddenbrookowie, Doktor Faustus
               (symbol, intelektualizm, uniwersalizm).
             </p>
-            <p>
-              Nurt sag rodzinnych popularnych w ówczesnej literaturze:
-              Buddenbrookowie Tomasa Manna, Saga rodu Forsythe’ów Johna
-              Galsworthy’ego, Rodzina Thibault Rogera Martin du Garda i inne.
-            </p>
             <br />
             <p>
               <em>
-                //aleklasa.pl/liceum/c155-powtorka-z-epok-literackich/c166-dwudziestolecie/dwudziestolecie-miedzywojenne-charakterystyka-epoki
+                //aleklasa.pl/liceum/c155-powtorka-z-epok-literackich/c166-dwudziestolecie
               </em>
             </p>
           </Modal>
