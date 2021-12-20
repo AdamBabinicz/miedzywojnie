@@ -45,7 +45,7 @@ const Featured = () => {
             <br />
             <p>
               <em>
-                //aleklasa.pl/liceum/c155-powtorka-z-epok-literackich/c166-dwudziestolecie/dwudziestolecie-miedzywojenne-charakterystyka-epoki
+                //aleklasa.pl/liceum/c155-powtorka-z-epok-literackich/c166-dwudziestolecie
               </em>
             </p>
           </Modal>
